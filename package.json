@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "bignumber.js": "^9.0.1",
+    "chai": "^4.3.4",
+    "chai-bignumber": "^3.0.0"
+  }
+}
